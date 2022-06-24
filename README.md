@@ -28,7 +28,7 @@ The most popular hours for bike use on Monday through Friday are 7-10am, with re
 The popular hours of bike use seem to be the same for males and females, but males are using the bikes in much higher numbers than females.
 <img width="1130" alt="Screen Shot 2022-06-22 at 4 06 45 PM" src="https://user-images.githubusercontent.com/101693004/175170914-6fdb08e3-07d0-43cf-b9e7-977a1006d9d9.png">
 
-The largest user demographic are male subscribers on Monday, Tuesday, Thursday, and Friday. The second largest user demographic are female subscribers on Monday, Tuesday, Thursday, and Friday.
+The largest user demographic are male subscribers on Monday, Tuesday, Thursday, and Friday. 
 <img width="1135" alt="Screen Shot 2022-06-22 at 4 07 02 PM" src="https://user-images.githubusercontent.com/101693004/175170963-22d020c2-5556-4ca8-be1f-c78ee416fb00.png">
 
 ## Summary
